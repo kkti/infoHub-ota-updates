@@ -1,7 +1,7 @@
-{
-  "version": "1.0.5",
-  "url": "https://raw.githubusercontent.com/kkti/pulsecore-ota-updates/main/PulseCore.bin",
-  "mandatory": false,
-  "sha256": "0c7d9ac62b2b1715b8eea3c052792d00ffef33fb25d0598145e1e5f109ee24bd",
-  "generated_at_utc": "2026-03-31T19:11:18Z"
+﻿{
+    "version":  "1.0.4",
+    "url":  "https://kodybase.com/ota/PulseCore.bin",
+    "mandatory":  false,
+    "sha256":  "9f830f4edfb7ca57c13512c9a0c56f8ef49eea41352898a452912ae73c7b077f",
+    "generated_at_utc":  "2026-08-01T16:27:40Z"
 }
