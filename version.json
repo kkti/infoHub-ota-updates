@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.5",
+    "version":  "1.0.6",
     "url":  "https://kodybase.com/ota/PulseCore.bin",
     "mandatory":  false,
-    "sha256":  "e35e1af88ddba4c57be6f6302abc1c64c94f2a66848724a4e1a9247cad8325c9",
-    "generated_at_utc":  "2026-08-02T16:29:13Z"
+    "sha256":  "20104d7820a18595f81c9840596c4e9a2f73f1576fab062e819008f343be0e57",
+    "generated_at_utc":  "2026-08-02T17:48:47Z"
 }
